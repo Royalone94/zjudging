@@ -1,0 +1,56 @@
+
+.PrimaryNav
+  background: $alphablack
+  position: fixed
+  top: 0
+  left: 0
+  right: 0 
+  width: 100%
+  z-index: 99
+
+  PrimaryNav-button_nav_container
+    @media (min-width: $tablet-width) and (max-width: $desktop-width) 
+      display:none
+
+  &-links_container
+    height: 100%
+    position: absolute
+    right: 0
+    bottom: 0
+    vertical-align: center
+    display: flex
+    align-items: center
+    justify-content: center
+
+  &-link
+    text-decoration: none
+    color: white
+    margin-left: 10px
+    margin-right: 10px
+
+    &:hover, &:active, &:focus
+      color: #038C9A
+      text-decoration: none
+    
+    &:active
+      text-decoration: underline
+
+  &-logo
+    padding: 17px 0
+    margin: 0
+    font-size: 2rem
+
+    a
+      text-decoration: none !important
+      color: white
+
+  &-button
+    margin: 5px
+    padding: 3px 15px
+    background: none
+    color: white
+    font-size: 2.7rem
+
+    &:hover, &:active, &:focus
+      color: white
+

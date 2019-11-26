@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 0, 
+    "title": "National History Day",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/NHD.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 1, 
+    "title": "National Invention Convention",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/NIC.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 2, 
+    "title": "San Bernardino, Inyo, and Mono Counties Science & Engineering Fair",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/SIMSEF.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 3, 
+    "title": "Ritchey Science & Engineering Fair",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/RitcheyLogoWSU-0002.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 4, 
+    "title": "Southern Utah Science & Engineering Fair",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/SUU.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 5, 
+    "title": "Weber School District Science & Engineering Fair",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/Weber.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  },
+  {
+    "id": 6, 
+    "title": "California Invention Convention",
+    "cover": "//img1.wsimg.com/isteam/ip/73d427b2-5ae9-43b5-9c09-e9e7a67d63fd/CIC.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:240,cg:true"
+  }
+]
